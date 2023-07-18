@@ -32,7 +32,6 @@ cd react
 npx -y nyc report 
 npx -y nyc report  -r html
 firefox coverage/index.html
-
 ```
 
 
